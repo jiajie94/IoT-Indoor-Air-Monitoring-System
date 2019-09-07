@@ -9,7 +9,7 @@ A web visualisation with Firebase to measure indoor air quality readings with Gr
 3. Grove Air Quality Sensor v1.3
 4. Base Shield
 
-# Instructions:
+# Instructions
 1. Stack Base Shield on top of Arduino Uno
 2. Plug air quality sensor to Base Shield port Ao
 3. Plug dust sensor to Base Shield port D8
