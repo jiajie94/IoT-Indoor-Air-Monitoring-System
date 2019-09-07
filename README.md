@@ -1,7 +1,7 @@
 # IoT-Indoor-Air-Monitoring-System
 A web visualisation with Firebase to measure indoor air quality readings with Grove Dust and Air quality sensors
 
-<img width="960" alt="IoT Application" src="https://user-images.githubusercontent.com/36478879/64475994-1fdaca80-d1bc-11e9-9308-c6bbf5c39c0b.PNG">
+<img width="954" alt="IoT Web Application" src="https://user-images.githubusercontent.com/36478879/64476060-143bd380-d1bd-11e9-87a7-a888038e3eec.PNG">
 
 # Equipment and Setup
 1. Arduino Uno circuit board
